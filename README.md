@@ -1,4 +1,4 @@
 js_scroll
 =========
 
-Exercise for the CodingDojo's Javascript course.  See the learning platform to see how you should improve the codes.  There are several bugs with the codes which are intentional. :)
+Exercise to help me to get a better understanding of how to read another person's code and be able to make contributions and fix bugs
